@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Java Enterprise Applications
 - 🌱 I’m currently learning Spring Boot, GraphQL
 - 💬 Ask me about Java, React
-- 📫 How to reach me: [Instagram](https://www.instagram.com/souptik5)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/souptik_saha)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Night Owl
 
