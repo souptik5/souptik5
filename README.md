@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 
 - 🔭 I’m currently working on Java Enterprise Applications
-- 🌱 I’m currently learning Spring Boot, GraphQL
+- 🌱 I’m currently learning Spring Boot, Swift
 - 💬 Ask me about Java, React
 - 📫 How to reach me: [Instagram](https://www.instagram.com/souptik_saha)
 - 😄 Pronouns: he/him
